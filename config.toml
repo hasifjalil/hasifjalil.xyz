@@ -1,4 +1,4 @@
-baseurl = "https://kazakov.xyz"
+baseurl = "https://hasifjalil.xyz"
 title = "DevOps with love"
 theme = "hugo-coder-forked"
 languagecode = "en"
@@ -10,7 +10,7 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "kksudo"
+disqusShortname = "hasifjalil"
 enableGitInfo = true
 enableRobotsTXT = true
 
@@ -21,11 +21,11 @@ filename = 'sitemap.xml'
 priority = 0.5
 
 [params]
-author = "Kirill Kazakov"
+author = "Hasif Jalil"
 info = ["Full Stack DevOps and Magician"]
-description = "Kirill Kazakov's personal page"
-keywords = "blog,businesscard,personal,devops,kksudo,kirill,kazakov"
-gravatar = "k@kazakov.xyz"
+description = "Hasif Jalil's personal page"
+keywords = "blog,businesscard,personal,devops"
+gravatar = "hasifjalil.xyz"
 
 faviconSVG = "/img/favicon.svg"
 favicon_32 = "/img/favicon.png"
@@ -35,7 +35,7 @@ enableTwemoji = true
 colorScheme = "auto"
 hidecolorschemetoggle = false
 # Git Commit in Footer, uncomment the line below to enable it
-commit = "https://github.com/kksudo/kazakov.xyz/tree/"
+commit = "https://github.com/hasifjalil/hasifjalil.xyz/tree/"
 powered_by = true
 # Series see also post count
 maxSeeAlsoItems = 5
@@ -49,37 +49,37 @@ maxSeeAlsoItems = 5
 name = "Github"
 icon = "fa fa-github fa-2x"
 weight = 1
-url = "https://github.com/kksudo/"
+url = "https://github.com/hasifjalil/"
 target = "_blank"
 [[params.social]]
 name = "Gitlab"
 icon = "fa fa-gitlab fa-2x"
 weight = 2
-url = "https://gitlab.com/kksudo"
+url = "https://gitlab.com/hasifjalil"
 target = "_blank"
 [[params.social]]
 name = "Instagram"
 icon = "fa fa-instagram fa-2x"
 weight = 3
-url = "https://www.instagram.com/kk_sudo/"
+url = "https://www.instagram.com/hasif.jalil/"
 target = "_blank"
 [[params.social]]
 name = "X-Twitter"
 icon = "fa fa-brands fa-x-twitter fa-2x"
 weight = 3
-url = "https://x.com/kk_sudo/"
+url = "https://x.com/hasifjalil/"
 target = "_blank"
 [[params.social]]
 name = "Linkedin"
 icon = "fa fa-linkedin fa-2x"
 weight = 5
-url = "https://www.linkedin.com/in/kazakovk/"
+url = "https://www.linkedin.com/in/hasifjalil/"
 target = "_blank"
 [[params.social]]
-name = "k@kazakov.xyz"
+name = "hasifjalil.xyz"
 icon = "fa fa-envelope fa-2x"
 weight = 6
-url = "mailto:k@kazakov.xyz"
+url = "mailto:mail@hasifjalil.xyz"
 target = "_blank"
 
 # Menu links
